@@ -1,0 +1,89 @@
+tree_label	source	original_id	sequence_length	legacy_tree_label	short_product	reference_name	display_label
+Limosilactobacillus_reuteri_cat-TC	crofts_and_paper_reference	gb|AAB53259.1|Limosilactobacillus reuteri cat-TC [Limosilactobacillus reuteri]	238	REF_000001	Limosilactobacillus reuteri cat-TC	Limosilactobacillus reuteri cat-TC	Limosilactobacillus reuteri cat-TC
+Bacillus_pumilus_cat86	crofts_and_paper_reference	gb|AAA22289.1|Bacillus pumilus cat86 [Bacillus pumilus]	220	REF_000002	Bacillus pumilus cat86	Bacillus pumilus cat86	Bacillus pumilus cat86
+Clostridium_butyricum_catB	crofts_and_paper_reference	gb|AAA73865.1|Clostridium butyricum catB [Clostridium butyricum]	219	REF_000003	Clostridium butyricum catB	Clostridium butyricum catB	Clostridium butyricum catB
+catB2	crofts_and_paper_reference	gb|AAP15294.1|catB2 [Pasteurella multocida]	210	REF_000004	catB2	catB2	catB2
+catB3	crofts_and_paper_reference	gb|AFQ93498.1|catB3 [Enterobacter cloacae]	210	REF_000005	catB3	catB3	catB3
+Pseudomonas_aeruginosa_catB6	crofts_and_paper_reference	gb|CAA11473.1|Pseudomonas aeruginosa catB6 [Pseudomonas aeruginosa]	210	REF_000006	Pseudomonas aeruginosa catB6	Pseudomonas aeruginosa catB6	Pseudomonas aeruginosa catB6
+Pseudomonas_aeruginosa_catB7	crofts_and_paper_reference	gb|NP_249397.1|Pseudomonas aeruginosa catB7 [Pseudomonas aeruginosa PAO1]	212	REF_000007	Pseudomonas aeruginosa catB7	Pseudomonas aeruginosa catB7	Pseudomonas aeruginosa catB7
+catB8	crofts_and_paper_reference	gb|AAM92461.1|catB8 [Salmonella enterica subsp. enterica serovar Typhi]	210	REF_000008	catB8	catB8	catB8
+catB9	crofts_and_paper_reference	gb|AAL68645.1|catB9 [Vibrio cholerae]	209	REF_000009	catB9	catB9	catB9
+catA1	crofts_and_paper_reference	gb|CAA23899.1|catA1 [Escherichia coli]	219	REF_000010	catA1	catA1	catA1
+catII	crofts_and_paper_reference	gb|CAA37806.1|catII [Haemophilus influenzae]	213	REF_000011	catII	catII	catII
+catIII	crofts_and_paper_reference	gb|CAA30695.1|catIII [Plasmid R387]	213	REF_000012	catIII	catIII	catIII
+catP	crofts_and_paper_reference	gb|AAB51421.1|catP [Clostridium perfringens]	207	REF_000013	catP	catP	catP
+catQ	crofts_and_paper_reference	gb|AAA23215.1|catQ [Clostridium perfringens]	219	REF_000014	catQ	catQ	catQ
+catS	crofts_and_paper_reference	gb|CAA52904.1|catS [Streptococcus pyogenes]	164	REF_000015	catS	catS	catS
+Plasmid-encoded_cat_pp-cat	crofts_and_paper_reference	gb|BAA03718.1|Plasmid-encoded cat (pp-cat) [Photobacterium damselae subsp. piscicida]	219	REF_000016	Plasmid-encoded cat (pp-cat)	Plasmid-encoded cat (pp-cat)	Plasmid-encoded cat (pp-cat)
+catB10	crofts_and_paper_reference	gb|ACL13298.1|catB10 [Pseudomonas aeruginosa]	210	REF_000017	catB10	catB10	catB10
+CatU	crofts_and_paper_reference	gb|APB03217.1|CatU [Paenibacillus sp. LC231]	217	REF_000018	CatU	CatU	CatU
+catII_from_Escherichia_coli_K-12	crofts_and_paper_reference	gb|CAA37805.1|catII from Escherichia coli K-12 [Escherichia coli str. K-12]	213	REF_000019	catII from Escherichia coli K-12	catII from Escherichia coli K-12	catII from Escherichia coli K-12
+catA8	crofts_and_paper_reference	gb|AFN69318.1|catA8 [Listeria monocytogenes]	215	REF_000020	catA8	catA8	catA8
+catA4	crofts_and_paper_reference	gb|AAA25655.1|catA4 [Proteus mirabilis]	217	REF_000021	catA4	catA4	catA4
+catB11	crofts_and_paper_reference	gb|AID93387.1|catB11 [Klebsiella oxytoca KONIH1]	210	REF_000022	catB11	catB11	catB11
+catV	crofts_and_paper_reference	gb|ATL63235.1|catV [Brevibacillus brevis Vm4]	219	REF_000023	catV	catV	catV
+Agrobacterium_fabrum_chloramphenicol_acetyltransferase	crofts_and_paper_reference	gb|AAA22081.1|Agrobacterium fabrum chloramphenicol acetyltransferase [Agrobacterium fabrum str. C58]	209	REF_000024	Agrobacterium fabrum chloramphenicol acetyltransferase	Agrobacterium fabrum chloramphenicol acetyltransferase	Agrobacterium fabrum chloramphenicol acetyltransferase
+Alkalihalobacillus_clausii_chloramphenicol_acetyltransferase	crofts_and_paper_reference	gb|AAQ63644.1|Alkalihalobacillus clausii chloramphenicol acetyltransferase [Alkalihalobacillus clausii]	228	REF_000025	Alkalihalobacillus clausii chloramphenicol acetyltransferase	Alkalihalobacillus clausii chloramphenicol acetyltransferase	Alkalihalobacillus clausii chloramphenicol acetyltransferase
+Campylobacter_coli_chloramphenicol_acetyltransferase	crofts_and_paper_reference	gb|AAA23018.1|Campylobacter coli chloramphenicol acetyltransferase [Campylobacter coli]	207	REF_000026	Campylobacter coli chloramphenicol acetyltransferase	Campylobacter coli chloramphenicol acetyltransferase	Campylobacter coli chloramphenicol acetyltransferase
+Streptococcus_suis_chloramphenicol_acetyltransferase	crofts_and_paper_reference	gb|BAC11901.1|Streptococcus suis chloramphenicol acetyltransferase [Streptococcus suis]	216	REF_000027	Streptococcus suis chloramphenicol acetyltransferase	Streptococcus suis chloramphenicol acetyltransferase	Streptococcus suis chloramphenicol acetyltransferase
+Enterococcus_faecium_chloramphenicol_acetyltransferase	crofts_and_paper_reference	gb|AAO52851.1|Enterococcus faecium chloramphenicol acetyltransferase [Enterococcus faecium]	215	REF_000028	Enterococcus faecium chloramphenicol acetyltransferase	Enterococcus faecium chloramphenicol acetyltransferase	Enterococcus faecium chloramphenicol acetyltransferase
+Staphylococcus_intermedius_chloramphenicol_acetyltransferase	crofts_and_paper_reference	gb|AAA26615.1|Staphylococcus intermedius chloramphenicol acetyltransferase [Staphylococcus intermedius]	215	REF_000029	Staphylococcus intermedius chloramphenicol acetyltransferase	Staphylococcus intermedius chloramphenicol acetyltransferase	Staphylococcus intermedius chloramphenicol acetyltransferase
+Enterococcus_faecalis_chloramphenicol_acetyltransferase	crofts_and_paper_reference	gb|CAA63498.2|Enterococcus faecalis chloramphenicol acetyltransferase [Enterococcus faecalis]	215	REF_000030	Enterococcus faecalis chloramphenicol acetyltransferase	Enterococcus faecalis chloramphenicol acetyltransferase	Enterococcus faecalis chloramphenicol acetyltransferase
+Vibrio_anguillarum_chloramphenicol_acetyltransferase	crofts_and_paper_reference	gb|AAB23649.1|Vibrio anguillarum chloramphenicol acetyltransferase [Vibrio anguillarum]	216	REF_000031	Vibrio anguillarum chloramphenicol acetyltransferase	Vibrio anguillarum chloramphenicol acetyltransferase	Vibrio anguillarum chloramphenicol acetyltransferase
+vatA	crofts_and_paper_reference	gb|AAA26683.1|vatA [Staphylococcus aureus]	219	REF_000032	vatA	vatA	vatA
+vatB	crofts_and_paper_reference	gb|AAA86871.1|vatB [Staphylococcus aureus]	212	REF_000033	vatB	vatB	vatB
+vatC	crofts_and_paper_reference	gb|AAC61671.1|vatC [Staphylococcus cohnii]	212	REF_000034	vatC	vatC	vatC
+vatD	crofts_and_paper_reference	gb|AAK84316.1|vatD [Enterococcus faecium]	204	REF_000035	vatD	vatD	vatD
+vatE	crofts_and_paper_reference	gb|AAF86220.1|vatE [Enterococcus faecium]	214	REF_000036	vatE	vatE	vatE
+vatH	crofts_and_paper_reference	gb|ACX92987.1|vatH [Enterococcus faecium]	216	REF_000037	vatH	vatH	vatH
+vatF	crofts_and_paper_reference	gb|AAF63432.1|vatF [Yersinia enterocolitica]	221	REF_000038	vatF	vatF	vatF
+VatI	crofts_and_paper_reference	gb|APB03220.1|VatI [Paenibacillus sp. LC231]	210	REF_000039	VatI	VatI	VatI
+cpaA	crofts_and_paper_reference	gb|APB03224.1|cpaA [Paenibacillus sp. LC231]	161	REF_000040	cpaA	cpaA	cpaA
+AAC6prime-29a	crofts_and_paper_reference	gb|WP_064190968.1|AAC(6')-29a [Pseudomonas aeruginosa]	133	REF_000041	AAC(6')-29a	AAC(6')-29a	AAC(6')-29a
+AAC6prime-29b	crofts_and_paper_reference	gb|WP_064190969.1|AAC(6')-29b [Pseudomonas aeruginosa]	133	REF_000042	AAC(6')-29b	AAC(6')-29b	AAC(6')-29b
+AAC6prime-31	crofts_and_paper_reference	gb|CAK55557.1|AAC(6')-31 [Pseudomonas putida]	172	REF_000043	AAC(6')-31	AAC(6')-31	AAC(6')-31
+AAC6prime-32	crofts_and_paper_reference	gb|ABR10839.1|AAC(6')-32 [Pseudomonas aeruginosa]	184	REF_000044	AAC(6')-32	AAC(6')-32	AAC(6')-32
+AAC6prime-I33	crofts_and_paper_reference	gb|AEZ05106.1|AAC(6')-I33 [Escherichia coli]	184	REF_000045	AAC(6')-I33	AAC(6')-I33	AAC(6')-I33
+AAC6prime-I30	crofts_and_paper_reference	gb|AAP43642.1|AAC(6')-I30 [Salmonella enterica subsp. enterica serovar Agona]	184	REF_000046	AAC(6')-I30	AAC(6')-I30	AAC(6')-I30
+AAC6prime-Ib-Suzhou	crofts_and_paper_reference	gb|ABU55430.1|AAC(6')-Ib-Suzhou [Enterobacter cloacae]	172	REF_000047	AAC(6')-Ib-Suzhou	AAC(6')-Ib-Suzhou	AAC(6')-Ib-Suzhou
+AAC6prime-Ib-Hangzhou	crofts_and_paper_reference	gb|ACL37342.1|AAC(6')-Ib-Hangzhou [Acinetobacter baumannii]	172	REF_000048	AAC(6')-Ib-Hangzhou	AAC(6')-Ib-Hangzhou	AAC(6')-Ib-Hangzhou
+AAC6prime-Ib-SK	crofts_and_paper_reference	gb|BAD11815.1|AAC(6')-Ib-SK [Streptomyces kanamyceticus]	176	REF_000049	AAC(6')-Ib-SK	AAC(6')-Ib-SK	AAC(6')-Ib-SK
+AAC6prime-I-43	crofts_and_paper_reference	gb|AEA07977.1|AAC(6')-I-43 [Klebsiella pneumoniae]	187	REF_000050	AAC(6')-I-43	AAC(6')-I-43	AAC(6')-I-43
+AAC6prime-34	crofts_and_paper_reference	gb|APB03223.1|AAC(6')-34 [Paenibacillus sp. LC231]	197	REF_000051	AAC(6')-34	AAC(6')-34	AAC(6')-34
+apmA	crofts_and_paper_reference	gb|CBL58181.1|apmA [Staphylococcus aureus]	274	REF_000052	apmA	apmA	apmA
+AAC2prime-Ia	crofts_and_paper_reference	gb|AAA03550.1|AAC(2')-Ia [Providencia stuartii]	178	REF_000053	AAC(2')-Ia	AAC(2')-Ia	AAC(2')-Ia
+AAC2prime-Ib	crofts_and_paper_reference	gb|AAC44793.1|AAC(2')-Ib [Mycolicibacterium fortuitum]	195	REF_000054	AAC(2')-Ib	AAC(2')-Ib	AAC(2')-Ib
+AAC2prime-Ic	crofts_and_paper_reference	gb|CCP42991.1|AAC(2')-Ic [Mycobacterium tuberculosis H37Rv]	181	REF_000055	AAC(2')-Ic	AAC(2')-Ic	AAC(2')-Ic
+AAC2prime-Id	crofts_and_paper_reference	gb|AAB41701.1|AAC(2')-Id [Mycolicibacterium smegmatis MC2 155]	210	REF_000056	AAC(2')-Id	AAC(2')-Id	AAC(2')-Id
+AAC2prime-Ie	crofts_and_paper_reference	gb|CAC32082.1|AAC(2')-Ie [Mycobacterium leprae]	182	REF_000057	AAC(2')-Ie	AAC(2')-Ie	AAC(2')-Ie
+AAC2prime-IIb	crofts_and_paper_reference	gb|APB03221.1|AAC(2')-IIb [Paenibacillus sp. LC231]	240	REF_000058	AAC(2')-IIb	AAC(2')-IIb	AAC(2')-IIb
+AAC2prime-IIa	crofts_and_paper_reference	gb|BAM16262.1|AAC(2')-IIa [Burkholderia glumae]	260	REF_000059	AAC(2')-IIa	AAC(2')-IIa	AAC(2')-IIa
+AAC3-Ia	crofts_and_paper_reference	gb|AAG15269.1|AAC(3)-Ia [Pseudomonas aeruginosa]	154	REF_000060	AAC(3)-Ia	AAC(3)-Ia	AAC(3)-Ia
+AAC3-Ib	crofts_and_paper_reference	gb|AAA88422.1|AAC(3)-Ib [Pseudomonas aeruginosa]	176	REF_000061	AAC(3)-Ib	AAC(3)-Ib	AAC(3)-Ib
+AAC3-Ic	crofts_and_paper_reference	gb|CAD53575.1|AAC(3)-Ic [Pseudomonas aeruginosa]	156	REF_000062	AAC(3)-Ic	AAC(3)-Ic	AAC(3)-Ic
+AAC3-Id	crofts_and_paper_reference	gb|AAR21614.1|AAC(3)-Id [Salmonella enterica subsp. enterica serovar Newport]	158	REF_000063	AAC(3)-Id	AAC(3)-Id	AAC(3)-Id
+AAC3-IIa	crofts_and_paper_reference	gb|CAA31895.1|AAC(3)-IIa [Plasmid pWP113a]	286	REF_000064	AAC(3)-IIa	AAC(3)-IIa	AAC(3)-IIa
+AAC3-IIb	crofts_and_paper_reference	gb|AAA26548.1|AAC(3)-IIb [Serratia marcescens]	269	REF_000065	AAC(3)-IIb	AAC(3)-IIb	AAC(3)-IIb
+AAC3-IIc	crofts_and_paper_reference	gb|CAA38525.1|AAC(3)-IIc [Escherichia coli]	286	REF_000066	AAC(3)-IIc	AAC(3)-IIc	AAC(3)-IIc
+AAC3-IId	crofts_and_paper_reference	gb|ABS70977.1|AAC(3)-IId [Escherichia coli]	286	REF_000067	AAC(3)-IId	AAC(3)-IId	AAC(3)-IId
+AAC3-IIe	crofts_and_paper_reference	gb|ABS70978.1|AAC(3)-IIe [Escherichia coli]	286	REF_000068	AAC(3)-IIe	AAC(3)-IIe	AAC(3)-IIe
+AAC3-IIg	crofts_and_paper_reference	gb|QKT21444.1|AAC(3)-IIg [Enterobacter cloacae]	269	REF_000069	AAC(3)-IIg	AAC(3)-IIg	AAC(3)-IIg
+AAC3-IIIa	crofts_and_paper_reference	gb|CAA39184.1|AAC(3)-IIIa [Pseudomonas aeruginosa]	271	REF_000070	AAC(3)-IIIa	AAC(3)-IIIa	AAC(3)-IIIa
+AAC3-IIIb	crofts_and_paper_reference	gb|KSC15183.1|AAC(3)-IIIb [Pseudomonas aeruginosa]	272	REF_000071	AAC(3)-IIIb	AAC(3)-IIIb	AAC(3)-IIIb
+AAC3-IIIc	crofts_and_paper_reference	gb|AAA25683.1|AAC(3)-IIIc [Pseudomonas aeruginosa]	279	REF_000072	AAC(3)-IIIc	AAC(3)-IIIc	AAC(3)-IIIc
+AAC3-IVa	crofts_and_paper_reference	gb|ABB43029.1|AAC(3)-IVa [Escherichia coli]	258	REF_000073	AAC(3)-IVa	AAC(3)-IVa	AAC(3)-IVa
+AAC3-IVb	crofts_and_paper_reference	gb|QEQ43476.1|AAC(3)-IVb [Cupriavidus gilardii]	251	REF_000074	AAC(3)-IVb	AAC(3)-IVb	AAC(3)-IVb
+AAC3-VIa	crofts_and_paper_reference	gb|AAA16194.1|AAC(3)-VIa [Enterobacter cloacae]	299	REF_000075	AAC(3)-VIa	AAC(3)-VIa	AAC(3)-VIa
+AAC3-VIIa	crofts_and_paper_reference	gb|AAA88552.1|AAC(3)-VIIa [Streptomyces rimosus]	288	REF_000076	AAC(3)-VIIa	AAC(3)-VIIa	AAC(3)-VIIa
+AAC3-VIIIa	crofts_and_paper_reference	gb|AAA26685.1|AAC(3)-VIIIa [Streptomyces fradiae]	286	REF_000077	AAC(3)-VIIIa	AAC(3)-VIIIa	AAC(3)-VIIIa
+AAC3-IXa	crofts_and_paper_reference	gb|AAA25334.1|AAC(3)-IXa [Micromonospora chalcea]	281	REF_000078	AAC(3)-IXa	AAC(3)-IXa	AAC(3)-IXa
+AAC3-Xa	crofts_and_paper_reference	gb|BAA78619.1|AAC(3)-Xa [Streptomyces griseus]	284	REF_000079	AAC(3)-Xa	AAC(3)-Xa	AAC(3)-Xa
+NAT_nourseothricin_acetyltransferase	crofts_and_paper_reference	AAC60439.1|NAT nourseothricin acetyltransferase [Streptomyces noursei]	190	REF_000080	NAT nourseothricin acetyltransferase	NAT nourseothricin acetyltransferase	NAT nourseothricin acetyltransferase
+STAT	crofts_and_paper_reference	gb|AAA88560.1|STAT [Streptomyces lavendulae]	189	REF_000081	STAT	STAT	STAT
+SAT-2	crofts_and_paper_reference	gb|BAD95494.1|SAT-2 [Escherichia coli]	174	REF_000082	SAT-2	SAT-2	SAT-2
+SAT-3	crofts_and_paper_reference	gb|CAA88265.1|SAT-3 [Escherichia coli]	180	REF_000083	SAT-3	SAT-3	SAT-3
+SAT-4	crofts_and_paper_reference	gb|AAB53445.1|SAT-4 [Campylobacter coli]	180	REF_000084	SAT-4	SAT-4	SAT-4
+SatA	crofts_and_paper_reference	gb|AAP26981.1|SatA [Bacillus anthracis str. Ames]	184	REF_000085	SatA	SatA	SatA
+SatB	crofts_and_paper_reference	SatB	196	REF_000086	SatB	SatB	SatB
+SrStat1	crofts_and_paper_reference	SrStat1 [Streptomyces rochei ATHUBA 263] streptothricin acetyltransferase	185	REF_000087	SrStat1	SrStat1	SrStat1
+SrStat2	crofts_and_paper_reference	SrStat2 [Streptomyces rochei ATHUBA 263] streptothricin acetyltransferase	189	REF_000088	SrStat2	SrStat2	SrStat2

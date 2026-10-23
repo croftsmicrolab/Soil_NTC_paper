@@ -1,0 +1,32 @@
+goslim_id	goslim_name	go_aspect	ccs_count	total_ccs	ccs_percent
+GO:0006766	vitamin metabolic process	Biological Process	26	261	9.96168582375479
+GO:0005975	carbohydrate metabolic process	Biological Process	11	261	4.21455938697318
+GO:0023052	signaling	Biological Process	11	261	4.21455938697318
+GO:0006355	regulation of DNA-templated transcription	Biological Process	10	261	3.8314176245210727
+GO:1901135	carbohydrate derivative metabolic process	Biological Process	9	261	3.4482758620689653
+GO:0006520	amino acid metabolic process	Biological Process	8	261	3.0651340996168583
+GO:0006281	DNA repair	Biological Process	5	261	1.9157088122605364
+GO:0006260	DNA replication	Biological Process	4	261	1.5325670498084292
+GO:0006399	tRNA metabolic process	Biological Process	4	261	1.5325670498084292
+GO:0006629	lipid metabolic process	Biological Process	3	261	1.1494252873563218
+GO:0006351	DNA-templated transcription	Biological Process	2	261	0.7662835249042146
+GO:0055086	nucleobase-containing small molecule metabolic process	Biological Process	2	261	0.7662835249042146
+GO:0006310	DNA recombination	Biological Process	1	261	0.3831417624521073
+GO:0007155	cell adhesion	Biological Process	1	261	0.3831417624521073
+GO:0006091	generation of precursor metabolites and energy	Biological Process	1	261	0.3831417624521073
+GO:0006790	sulfur compound metabolic process	Biological Process	1	261	0.3831417624521073
+GO:0055085	transmembrane transport	Biological Process	1	261	0.3831417624521073
+GO:0005829	cytosol	Cellular Component	6	261	2.2988505747126435
+GO:0005886	plasma membrane	Cellular Component	6	261	2.2988505747126435
+GO:0005618	cell wall	Cellular Component	5	261	1.9157088122605364
+GO:0016740	transferase activity	Molecular Function	76	261	29.118773946360154
+GO:0016787	hydrolase activity	Molecular Function	49	261	18.773946360153257
+GO:0003677	DNA binding	Molecular Function	10	261	3.8314176245210727
+GO:0005215	transporter activity	Molecular Function	7	261	2.681992337164751
+GO:0016491	oxidoreductase activity	Molecular Function	6	261	2.2988505747126435
+GO:0016874	ligase activity	Molecular Function	5	261	1.9157088122605364
+GO:0140299	molecular sensor activity	Molecular Function	4	261	1.5325670498084292
+GO:0140110	transcription regulator activity	Molecular Function	3	261	1.1494252873563218
+GO:0016829	lyase activity	Molecular Function	2	261	0.7662835249042146
+GO:0016209	antioxidant activity	Molecular Function	1	261	0.3831417624521073
+GO:0016853	isomerase activity	Molecular Function	1	261	0.3831417624521073

@@ -1,0 +1,107 @@
+label	raw_display_label	display_label	ref_subclass	ref_color_group	plot_group	ntc_resistance	branch_group
+HIT_000122	HIT_000122	122	NA	NA	Cloned candidate	Not detected	Candidate_branch
+HIT_000135	HIT_000135	135	NA	NA	Cloned candidate	Not detected	Candidate_branch
+HIT_000057	HIT_000057	57	NA	NA	Cloned candidate	Detected	Candidate_branch
+HIT_000008	HIT_000008	8	NA	NA	Cloned candidate	Detected	Candidate_branch
+HIT_000196	HIT_000196	196	NA	NA	Cloned candidate	Not detected	Candidate_branch
+HIT_000242	HIT_000242	242	NA	NA	Cloned candidate	Detected	Candidate_branch
+HIT_000091	HIT_000091	91	NA	NA	Cloned candidate	Detected	Candidate_branch
+HIT_000118	HIT_000118	118	NA	NA	Cloned candidate	Detected	Candidate_branch
+HIT_000040	HIT_000040	40	NA	NA	Cloned candidate	Detected	Candidate_branch
+HIT_000156	HIT_000156	156	NA	NA	Cloned candidate	Detected	Candidate_branch
+HIT_000262	HIT_000262	262	NA	NA	Cloned candidate	Detected	Candidate_branch
+SAT-4	SAT-4	SAT-4	SAT	SAT	SAT	NA	SAT_branch
+SatB	SatB	SatB	SAT	SAT	SAT	NA	SAT_branch
+HIT_000213	HIT_000213	213	NA	NA	Cloned candidate	Not detected	Candidate_branch
+SatA	SatA	SatA	SAT	SAT	SAT	NA	SAT_branch
+HIT_000197	HIT_000197	197	NA	NA	Cloned candidate	Detected	Candidate_branch
+HIT_000259	HIT_000259	259	NA	NA	Cloned candidate	Detected	Candidate_branch
+SAT-3	SAT-3	SAT-3	SAT	SAT	SAT	NA	SAT_branch
+Limosilactobacillus_reuteri_cat-TC	Limosilactobacillus reuteri cat-TC	CAT-TC	CAT	CAT	CAT	NA	Other_branch
+Streptococcus_suis_chloramphenicol_acetyltransferase	Streptococcus suis chloramphenicol acetyltransferase	CAT-S_SUIS	CAT	CAT	CAT	NA	Other_branch
+catA8	catA8	CATA8	CAT	CAT	CAT	NA	Other_branch
+Enterococcus_faecium_chloramphenicol_acetyltransferase	Enterococcus faecium chloramphenicol acetyltransferase	CAT-E_FAECIUM	CAT	CAT	CAT	NA	Other_branch
+Staphylococcus_intermedius_chloramphenicol_acetyltransferase	Staphylococcus intermedius chloramphenicol acetyltransferase	CAT-S_INTERMEDIUS	CAT	CAT	CAT	NA	Other_branch
+Enterococcus_faecalis_chloramphenicol_acetyltransferase	Enterococcus faecalis chloramphenicol acetyltransferase	CAT-E_FAECALIS	CAT	CAT	CAT	NA	Other_branch
+Alkalihalobacillus_clausii_chloramphenicol_acetyltransferase	Alkalihalobacillus clausii chloramphenicol acetyltransferase	CAT-A_CLAUSII	CAT	CAT	CAT	NA	Other_branch
+Bacillus_pumilus_cat86	Bacillus pumilus cat86	CAT86	CAT	CAT	CAT	NA	Other_branch
+catB2	catB2	CATB2	CAT	CAT	CAT	NA	Other_branch
+catB11	catB11	CATB11	CAT	CAT	CAT	NA	Other_branch
+catB10	catB10	CATB10	CAT	CAT	CAT	NA	Other_branch
+catB3	catB3	CATB3	CAT	CAT	CAT	NA	Other_branch
+Pseudomonas_aeruginosa_catB6	Pseudomonas aeruginosa catB6	CATB6	CAT	CAT	CAT	NA	Other_branch
+catB8	catB8	CATB8	CAT	CAT	CAT	NA	Other_branch
+Pseudomonas_aeruginosa_catB7	Pseudomonas aeruginosa catB7	CATB7	CAT	CAT	CAT	NA	Other_branch
+Agrobacterium_fabrum_chloramphenicol_acetyltransferase	Agrobacterium fabrum chloramphenicol acetyltransferase	CAT-A_FABRUM	CAT	CAT	CAT	NA	Other_branch
+catB9	catB9	CATB9	CAT	CAT	CAT	NA	Other_branch
+vatA	vatA	VATA	VAT	VAT	VAT	NA	Other_branch
+vatC	vatC	VATC	VAT	VAT	VAT	NA	Other_branch
+vatD	vatD	VATD	VAT	VAT	VAT	NA	Other_branch
+vatH	vatH	VATH	VAT	VAT	VAT	NA	Other_branch
+VatI	VatI	VATI	VAT	VAT	VAT	NA	Other_branch
+vatB	vatB	VATB	VAT	VAT	VAT	NA	Other_branch
+vatE	vatE	VATE	VAT	VAT	VAT	NA	Other_branch
+vatF	vatF	VATF	VAT	VAT	VAT	NA	Other_branch
+apmA	apmA	apmA	AAC-other	AAC	AAC	NA	Other_branch
+catA1	catA1	CATA1	CAT	CAT	CAT	NA	Other_branch
+Plasmid-encoded_cat_pp-cat	Plasmid-encoded cat (pp-cat)	PP-CAT	CAT	CAT	CAT	NA	Other_branch
+catA4	catA4	CATA4	CAT	CAT	CAT	NA	Other_branch
+catII	catII	CATII	CAT	CAT	CAT	NA	Other_branch
+catII_from_Escherichia_coli_K-12	catII from Escherichia coli K-12	CATII	CAT	CAT	CAT	NA	Other_branch
+catIII	catIII	CATIII	CAT	CAT	CAT	NA	Other_branch
+catP	catP	CATP	CAT	CAT	CAT	NA	Other_branch
+catS	catS	CATS	CAT	CAT	CAT	NA	Other_branch
+Campylobacter_coli_chloramphenicol_acetyltransferase	Campylobacter coli chloramphenicol acetyltransferase	CAT-C_COLI	CAT	CAT	CAT	NA	Other_branch
+Vibrio_anguillarum_chloramphenicol_acetyltransferase	Vibrio anguillarum chloramphenicol acetyltransferase	CAT-V_ANGUILLARUM	CAT	CAT	CAT	NA	Other_branch
+Clostridium_butyricum_catB	Clostridium butyricum catB	CATB	CAT	CAT	CAT	NA	Other_branch
+catQ	catQ	CATQ	CAT	CAT	CAT	NA	Other_branch
+catV	catV	CATV	CAT	CAT	CAT	NA	Other_branch
+CatU	CatU	CATU	CAT	CAT	CAT	NA	Other_branch
+AAC6prime-I33	AAC(6')-I33	AAC(6')-I33	AAC(6')	AAC	AAC	NA	Other_branch
+AAC6prime-I30	AAC(6')-I30	AAC(6')-I30	AAC(6')	AAC	AAC	NA	Other_branch
+AAC6prime-I-43	AAC(6')-I-43	AAC(6')-I-43	AAC(6')	AAC	AAC	NA	Other_branch
+SAT-2	SAT-2	SAT-2	SAT	SAT	SAT	NA	SAT_branch
+HIT_000185	HIT_000185	185	NA	NA	Cloned candidate	Not detected	Candidate_branch
+NAT_nourseothricin_acetyltransferase	NAT nourseothricin acetyltransferase	NAT	SAT	SAT	SAT	NA	SAT_branch
+SrStat1	SrStat1	SrStat1	SAT	SAT	SAT	NA	SAT_branch
+STAT	STAT	STAT	SAT	SAT	SAT	NA	SAT_branch
+SrStat2	SrStat2	SrStat2	SAT	SAT	SAT	NA	SAT_branch
+AAC6prime-31	AAC(6')-31	AAC(6')-31	AAC(6')	AAC	AAC	NA	Other_branch
+AAC6prime-Ib-Suzhou	AAC(6')-Ib-Suzhou	AAC(6')-Ib-Suzhou	AAC(6')	AAC	AAC	NA	Other_branch
+AAC6prime-Ib-Hangzhou	AAC(6')-Ib-Hangzhou	AAC(6')-Ib-Hangzhou	AAC(6')	AAC	AAC	NA	Other_branch
+AAC6prime-32	AAC(6')-32	AAC(6')-32	AAC(6')	AAC	AAC	NA	Other_branch
+AAC6prime-Ib-SK	AAC(6')-Ib-SK	AAC(6')-Ib-SK	AAC(6')	AAC	AAC	NA	Other_branch
+AAC6prime-34	AAC(6')-34	AAC(6')-34	AAC(6')	AAC	AAC	NA	Other_branch
+HIT_000178	HIT_000178	178	NA	NA	Cloned candidate	Not detected	Candidate_branch
+HIT_000035	HIT_000035	35	NA	NA	Cloned candidate	Not detected	Candidate_branch
+cpaA	cpaA	cpaA	AAC-other	AAC	AAC	NA	Other_branch
+HIT_000151	HIT_000151	151	NA	NA	Cloned candidate	Not detected	Candidate_branch
+AAC2prime-IIb	AAC(2')-IIb	AAC(2')-IIb	AAC(2')	AAC	AAC	NA	Other_branch
+AAC2prime-IIa	AAC(2')-IIa	AAC(2')-IIa	AAC(2')	AAC	AAC	NA	Other_branch
+AAC6prime-29a	AAC(6')-29a	AAC(6')-29a	AAC(6')	AAC	AAC	NA	Other_branch
+AAC6prime-29b	AAC(6')-29b	AAC(6')-29b	AAC(6')	AAC	AAC	NA	Other_branch
+AAC2prime-Ia	AAC(2')-Ia	AAC(2')-Ia	AAC(2')	AAC	AAC	NA	Other_branch
+AAC2prime-Ib	AAC(2')-Ib	AAC(2')-Ib	AAC(2')	AAC	AAC	NA	Other_branch
+AAC2prime-Ic	AAC(2')-Ic	AAC(2')-Ic	AAC(2')	AAC	AAC	NA	Other_branch
+AAC2prime-Ie	AAC(2')-Ie	AAC(2')-Ie	AAC(2')	AAC	AAC	NA	Other_branch
+AAC2prime-Id	AAC(2')-Id	AAC(2')-Id	AAC(2')	AAC	AAC	NA	Other_branch
+AAC3-IIa	AAC(3)-IIa	AAC(3)-IIa	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IId	AAC(3)-IId	AAC(3)-IId	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IIc	AAC(3)-IIc	AAC(3)-IIc	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IIe	AAC(3)-IIe	AAC(3)-IIe	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IIg	AAC(3)-IIg	AAC(3)-IIg	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IIb	AAC(3)-IIb	AAC(3)-IIb	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-VIa	AAC(3)-VIa	AAC(3)-VIa	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IIIa	AAC(3)-IIIa	AAC(3)-IIIa	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IIIb	AAC(3)-IIIb	AAC(3)-IIIb	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IIIc	AAC(3)-IIIc	AAC(3)-IIIc	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-VIIa	AAC(3)-VIIa	AAC(3)-VIIa	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IXa	AAC(3)-IXa	AAC(3)-IXa	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-Xa	AAC(3)-Xa	AAC(3)-Xa	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-VIIIa	AAC(3)-VIIIa	AAC(3)-VIIIa	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IVa	AAC(3)-IVa	AAC(3)-IVa	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-IVb	AAC(3)-IVb	AAC(3)-IVb	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-Ia	AAC(3)-Ia	AAC(3)-Ia	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-Ib	AAC(3)-Ib	AAC(3)-Ib	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-Ic	AAC(3)-Ic	AAC(3)-Ic	AAC(3)	AAC	AAC	NA	Other_branch
+AAC3-Id	AAC(3)-Id	AAC(3)-Id	AAC(3)	AAC	AAC	NA	Other_branch

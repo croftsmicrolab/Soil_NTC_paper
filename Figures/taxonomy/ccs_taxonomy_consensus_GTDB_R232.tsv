@@ -1,0 +1,262 @@
+ccs_id	tree_hit_count	total_predicted_orfs	non_target_orfs	non_target_orfs_classified	non_target_orfs_with_phylum	assigned_phylum	phylum_supporting_orfs	phylum_voting_orfs	phylum_vote_fraction	assigned_class	class_supporting_orfs	class_voting_orfs	class_vote_fraction	assigned_order	order_supporting_orfs	order_voting_orfs	order_vote_fraction	assigned_family	confidence	evidence_mode
+m64108e_210808_121834_102172460_ccs	1	3	2	1	1	Planctomycetota	1	1	1	Planctomycetia	1	1	1	Pirellulales	1	1	1	Pirellulaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_102369905_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Promineifilales	2	2	1	Promineifilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_102434809_ccs	1	5	4	4	4	Planctomycetota	4	4	1	Planctomycetia	4	4	1	Isosphaerales	4	4	1	Isosphaeraceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_102501108_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_103153942_ccs	1	5	4	4	4	Chloroflexota	4	4	1	Chloroflexia	1	1	1	Thermomicrobiales	1	1	1	UBA6265	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_103350306_ccs	1	7	6	2	1	Chloroflexota	1	1	1	Limnocylindria	1	1	1	Limnocylindrales	1	1	1	CSP1-4	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_103810898_ccs	1	4	3	3	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Caldilineales	1	1	1	Caldilineaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_103811637_ccs	1	4	3	3	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Aggregatilineales	2	2	1	J027	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_104071902_ccs	1	4	3	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_104858944_ccs	1	4	3	2	2	Bacillota	2	2	1	Clostridia	2	2	1	Clostridiales	2	2	1	Clostridiaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_105447898_ccs	1	2	1	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_10554027_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_105579570_ccs	1	3	2	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_105646387_ccs	1	2	1	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_105973401_ccs	1	7	6	4	4	Chloroflexota	4	4	1	Anaerolineae	4	4	1	Caldilineales	3	4	0.75	Caldilineaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_106103640_ccs	1	3	2	2	2	Thermoproteota	2	2	1	Nitrososphaeria	2	2	1	Nitrososphaerales	2	2	1	Nitrososphaeraceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_106563619_ccs	1	4	3	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Villigracilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_107545677_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_107741693_ccs	1	5	4	3	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Caldilineales	1	1	1	Caldilineaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_107940302_ccs	1	3	2	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_10816278_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Villigracilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_108202775_ccs	1	2	1	1	1	Actinomycetota	1	1	1	Acidimicrobiia	1	1	1	Spongiisociales	1	1	1	ZC4RG35	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_108397092_ccs	1	4	3	3	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Aggregatilineales	2	2	1	J027	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_108791518_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Limnocylindria	1	1	1	Limnocylindrales	1	1	1	CSP1-4	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_10946926_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Chloroflexia	1	1	1	QHBQ01	1	1	1	JADMIH01	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_110035838_ccs	1	3	2	2	2	Bacillota	2	2	1	Clostridia	1	1	1	Lachnospirales	1	1	1	WRAX01	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_110887604_ccs	1	5	4	2	2	Chloroflexota	2	2	1	Anaerolineae	1	1	1	Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_111412269_ccs	1	5	4	4	4	Chlamydiota	4	4	1	Chlamydiia	4	4	1	Chlamydiales	4	4	1	Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_11207908_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_11209202_ccs	1	4	3	3	3	Actinomycetota	2	3	0.666666666666667	Actinomycetes	2	2	1	Streptomycetales	2	2	1	Streptomycetaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_112395141_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_113050167_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Limnocylindria	2	2	1	Limnocylindrales	2	2	1	CSP1-4	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_113116726_ccs	1	5	4	3	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Caldilineales	1	1	1	Caldilineaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_113837438_ccs	1	2	1	1	1	Pseudomonadota	1	1	1	Gammaproteobacteria	1	1	1	Pseudomonadales	1	1	1	Pseudomonadaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_114821636_ccs	1	3	2	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_115410236_ccs	1	2	1	1	1	Actinomycetota	1	1	1	Actinomycetes	1	1	1	Actinomycetales	1	1	1	Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_115475236_ccs	1	3	2	2	2	Bacteroidota	2	2	1	Ignavibacteria	2	2	1	Tepidaquicellales	2	2	1	Tepidaquicellaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_115542299_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Dehalococcoidia	2	2	1	Unclassified	0	2		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_115737803_ccs	1	6	5	3	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	UBA11858	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_116001599_ccs	1	5	4	2	2	Bacillota	2	2	1	Clostridia	2	2	1	Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_116066973_ccs	1	4	3	2	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_117835600_ccs	1	5	4	4	4	Actinomycetota	4	4	1	Actinomycetes	4	4	1	Actinomycetales	4	4	1	Micrococcaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_118425929_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Unclassified	0	0		Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_119210939_ccs	1	7	6	4	3	Chloroflexota	2	3	0.666666666666667	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Anaerolineaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_120062305_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Limnocylindria	2	2	1	QHBO01	2	2	1	QHBO01	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_120128225_ccs	1	4	3	2	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_120456702_ccs	1	6	5	5	5	Actinomycetota	5	5	1	Actinomycetes	5	5	1	Actinomycetales	4	4	1	Micrococcaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_120982176_ccs	1	4	3	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_121831650_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	1	1	1	Anaerolineaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_122684518_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_125634422_ccs	1	5	4	3	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_126027492_ccs	1	7	6	6	4	Chloroflexota	4	4	1	Anaerolineae	4	4	1	Caldilineales	4	4	1	Caldilineaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_127142127_ccs	1	7	6	2	1	Pseudomonadota	1	1	1	Alphaproteobacteria	1	1	1	Rhizobiales	1	1	1	Aestuariivirgaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_129302823_ccs	1	2	1	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_130091124_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_131073041_ccs	1	4	3	3	3	Actinomycetota	3	3	1	Actinomycetes	3	3	1	Propionibacteriales	3	3	1	Propionibacteriaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_13305348_ccs	1	6	5	3	2	Unclassified	0	2		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_133890293_ccs	1	3	2	2	1	Acidobacteriota	1	1	1	Terriglobia	1	1	1	20CM-2-55-15	1	1	1	20CM-2-55-15	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_134154294_ccs	1	3	2	2	2	Actinomycetota	2	2	1	Thermoleophilia	2	2	1	Gaiellales	2	2	1	Gaiellaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_135726762_ccs	1	6	5	3	2	Chloroflexota	2	2	1	Anaerolineae	1	1	1	Promineifilales	1	1	1	Promineifilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_135857115_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	Phototrophicaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_135923206_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Ardenticatenales	2	2	1	Ardenticatenaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_137496073_ccs	1	4	3	2	2	Unclassified	0	2		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_137692317_ccs	1	4	3	3	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Villigracilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_137889837_ccs	1	2	1	1	1	Acidobacteriota	1	1	1	Vicinamibacteria	1	1	1	Vicinamibacterales	1	1	1	Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_138215738_ccs	1	7	6	2	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_139069726_ccs	2	4	2	1	1	Bacillota	1	1	1	Bacilli	1	1	1	Paenibacillales	1	1	1	Paenibacillaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_139986082_ccs	1	3	2	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_140313435_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Promineifilales	1	1	1	Promineifilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_14091462_ccs	1	2	1	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_141822402_ccs	1	4	3	3	3	Acidobacteriota	3	3	1	Vicinamibacteria	2	3	0.666666666666667	Vicinamibacterales	2	2	1	Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_142148775_ccs	1	3	2	1	1	Actinomycetota	1	1	1	Actinomycetes	1	1	1	Jiangellales	1	1	1	Jiangellaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_14222817_ccs	1	5	4	3	3	Acidobacteriota	3	3	1	Terriglobia	3	3	1	Unclassified	0	2		Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_142476297_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_142541610_ccs	1	5	4	2	2	Bacillota	2	2	1	Unclassified	0	2		Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_142674140_ccs	1	6	5	4	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	3	3	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_142803990_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Limnocylindria	2	2	1	QHBO01	2	2	1	QHBO01	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_143983051_ccs	1	5	4	4	4	Chloroflexota	4	4	1	Anaerolineae	4	4	1	Promineifilales	3	3	1	Promineifilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_144311817_ccs	1	3	2	2	2	Thermoproteota	2	2	1	Nitrososphaeria	2	2	1	Nitrososphaerales	2	2	1	Nitrososphaeraceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_145753227_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_147392471_ccs	1	10	9	8	6	Chloroflexota	6	6	1	Anaerolineae	6	6	1	Caldilineales	5	5	1	Caldilineaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_148048087_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Aggregatilineales	2	2	1	Phototrophicaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_149620226_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_150144854_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	UBA4823	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_151191705_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_152830225_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Aggregatilineales	2	2	1	J027	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_153356870_ccs	1	4	3	3	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Villigracilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_154143237_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_15469358_ccs	1	3	2	2	2	Unclassified	0	2		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_156370408_ccs	1	2	1	1	1	Planctomycetota	1	1	1	Phycisphaerae	1	1	1	UBA1845	1	1	1	UTPLA1	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_157026311_ccs	1	6	5	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_157878808_ccs	1	3	2	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_158925775_ccs	1	4	3	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Unclassified	0	0		Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_159516215_ccs	1	6	5	4	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Unclassified	0	2		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_159909617_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_15992284_ccs	1	3	2	1	1	Actinomycetota	1	1	1	Thermoleophilia	1	1	1	Gaiellales	1	1	1	Gaiellaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_160367490_ccs	1	8	7	7	7	Bacillota	7	7	1	Bacilli	5	7	0.714285714285714	Bacillales	5	5	1	Bacillaceae G	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_160694335_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_160695264_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_160893255_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_161220334_ccs	1	3	2	2	2	Cyanobacteriota	2	2	1	Cyanobacteriia	2	2	1	Cyanobacteriales	2	2	1	Microcoleaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_161482042_ccs	1	3	2	2	2	Acidobacteriota	2	2	1	Unclassified	0	2		Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_162073315_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Villigracilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_163777038_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_163972319_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	3	3	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_164170399_ccs	1	3	2	1	1	Acidobacteriota	1	1	1	Terriglobia	1	1	1	20CM-2-55-15	1	1	1	20CM-2-55-15	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_164364322_ccs	1	3	2	2	2	Bacillota	2	2	1	Clostridia	1	1	1	Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_165216670_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Caldilineales	1	1	1	Caldilineaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_165217628_ccs	1	4	3	1	1	Bacillota	1	1	1	Unclassified	0	0		Unclassified	0	0		Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_165218459_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_165807438_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Promineifilales	2	2	1	Promineifilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_165808696_ccs	1	4	3	2	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_166528026_ccs	1	7	6	3	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Caldilineales	2	2	1	Caldilineaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_167183225_ccs	1	4	3	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	J027	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_167316008_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_170852447_ccs	1	4	3	3	3	Bacillota	3	3	1	Bacilli	3	3	1	Paenibacillales	3	3	1	Paenibacillaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_17106959_ccs	1	2	1	1	1	Bacillota	1	1	1	Bacilli	1	1	1	Paenibacillales	1	1	1	Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_172097727_ccs	1	4	3	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_172558329_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	Phototrophicaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_17302298_ccs	1	4	3	2	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_174262671_ccs	1	5	4	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Promineifilales	3	3	1	Promineifilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_175308976_ccs	1	2	1	1	1	Actinomycetota	1	1	1	Actinomycetes	1	1	1	Propionibacteriales	1	1	1	Nocardioidaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_176292576_ccs	2	3	1	1	1	Chloroflexota	1	1	1	Limnocylindria	1	1	1	QHBO01	1	1	1	QHBO01	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_176423132_ccs	1	3	2	1	1	Actinomycetota	1	1	1	Actinomycetes	1	1	1	Propionibacteriales	1	1	1	Kribbellaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_176818014_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Limnocylindria	2	2	1	Limnocylindrales	2	2	1	CSP1-4	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_176882871_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Limnocylindria	1	1	1	Limnocylindrales	1	1	1	CSP1-4	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_177670727_ccs	1	5	4	3	3	Bacillota	3	3	1	Clostridia	2	3	0.666666666666667	Unclassified	0	0		Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_177932593_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Limnocylindria	3	3	1	QHBO01	3	3	1	QHBO01	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_178260419_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_179962411_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Caldilineales	1	1	1	Caldilineaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_180355576_ccs	1	5	4	2	2	Acidobacteriota	2	2	1	Unclassified	0	2		Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_180488440_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_18680637_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Caldilineales	1	1	1	Caldilineaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_19662875_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Limnocylindria	1	1	1	QHBO01	1	1	1	QHBO01	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_20120024_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Unclassified	0	2		Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_20122370_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_20776237_ccs	1	3	2	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_21890886_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	CG2-30-64-16	2	2	1	CG2-30-64-16	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_21956084_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_21957115_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Dehalococcoidia	2	2	1	Tepidiformales	2	2	1	Tepidiformaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_23462179_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Chloroflexia	1	1	1	QHBQ01	1	1	1	JADMIH01	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_24578182_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Unclassified	0	2		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_24839388_ccs	1	5	4	3	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Caldilineales	2	2	1	Caldilineaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_24904006_ccs	1	3	2	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Promineifilales	1	1	1	Promineifilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_25166820_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_25626931_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Limnocylindria	3	3	1	Limnocylindrales	2	3	0.666666666666667	CSP1-4	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_25757606_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_26083770_ccs	1	2	1	1	1	Tectomicrobia	1	1	1	Entotheonellia	1	1	1	Entotheonellales	1	1	1	Entotheonellaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_26216731_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Aggregatilineales	3	3	1	Phototrophicaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_26280191_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Limnocylindria	1	1	1	Limnocylindrales	1	1	1	CSP1-4	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_26741468_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_27723341_ccs	1	2	1	1	1	Actinomycetota	1	1	1	Actinomycetes	1	1	1	Actinomycetales	1	1	1	Micrococcaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_27985139_ccs	1	5	4	4	4	Bacillota	4	4	1	Clostridia	4	4	1	Christensenellales	4	4	1	UMGS416	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_27986681_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	2	3	0.666666666666667	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_29428468_ccs	1	4	3	3	3	Actinomycetota	3	3	1	Actinomycetes	3	3	1	Actinomycetales	3	3	1	Micrococcaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_29558637_ccs	1	2	1	1	1	Acidobacteriota	1	1	1	Terriglobia	1	1	1	20CM-2-55-15	1	1	1	20CM-2-55-15	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_29753550_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	3	3	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_29754242_ccs	1	4	3	3	3	Pseudomonadota	3	3	1	Gammaproteobacteria	3	3	1	Burkholderiales	3	3	1	SG8-39	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_30017695_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Unclassified	0	0		Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_30214603_ccs	1	3	2	1	1	Acidobacteriota	1	1	1	Terriglobia	1	1	1	20CM-2-55-15	1	1	1	20CM-2-55-15	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_31197077_ccs	1	4	3	3	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_32573179_ccs	1	5	4	3	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Villigracilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_33163047_ccs	1	2	1	1	1	Pseudomonadota	1	1	1	Gammaproteobacteria	1	1	1	Pseudomonadales	1	1	1	Pseudomonadaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_33620369_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_34275648_ccs	1	6	5	4	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	3	3	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_34276920_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	CG2-30-64-16	1	1	1	CG2-30-64-16	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_35654355_ccs	1	3	2	2	2	Chlamydiota	2	2	1	Chlamydiia	2	2	1	Chlamydiales	2	2	1	Parachlamydiaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_36831408_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	2	2	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_3736125_ccs	1	4	3	3	2	Bacteroidota	2	2	1	Bacteroidia	2	2	1	Cytophagales	1	1	1	Spirosomataceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_37751179_ccs	1	4	3	2	1	Cyanobacteriota	1	1	1	Cyanobacteriia	1	1	1	Cyanobacteriales	1	1	1	Nostocaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_38862900_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Unclassified	0	2		Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_39323854_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_40962469_ccs	1	4	3	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	UBA4823	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_4129035_ccs	1	2	1	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_42861062_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_43254680_ccs	1	4	3	1	1	Actinomycetota	1	1	1	Unclassified	0	0		Unclassified	0	0		Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_43712606_ccs	1	5	4	4	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Caldilineales	2	2	1	Caldilineaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_44565065_ccs	1	4	3	3	2	Unclassified	0	2		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_44960299_ccs	1	2	1	1	1	Actinomycetota	1	1	1	Acidimicrobiia	1	1	1	Acidimicrobiales	1	1	1	JBBSGY01	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_45483282_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_45484634_ccs	1	4	3	2	2	Pseudomonadota	2	2	1	Alphaproteobacteria	2	2	1	DSM-16000	2	2	1	Inquilinaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_45744819_ccs	1	7	6	4	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_45746602_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Chloroflexia	1	1	1	QHBQ01	1	1	1	Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_46074165_ccs	1	4	3	2	1	Chloroflexota	1	1	1	Limnocylindria	1	1	1	QHBO01	1	1	1	QHBO01	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_47842521_ccs	1	8	7	2	2	Myxococcota	2	2	1	Myxococcia	2	2	1	Myxococcales	2	2	1	Myxococcaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_4918063_ccs	1	2	1	1	1	Bacillota	1	1	1	Clostridia	1	1	1	Lachnospirales	1	1	1	Lachnospiraceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_49612888_ccs	1	3	2	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_50005323_ccs	1	6	5	5	5	Chloroflexota	5	5	1	Anaerolineae	5	5	1	Anaerolineales	5	5	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_50202813_ccs	1	4	3	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_50530279_ccs	1	3	2	2	2	Desulfobacterota	2	2	1	Binatia	2	2	1	UBA9968	2	2	1	UBA9968	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_5112840_ccs	1	3	2	2	2	Acidobacteriota	2	2	1	Vicinamibacteria	2	2	1	Vicinamibacterales	2	2	1	CAVVIG01	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_51186320_ccs	1	3	2	1	1	Cyanobacteriota	1	1	1	Cyanobacteriia	1	1	1	Thermosynechococcales	1	1	1	Thermosynechococcaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_51512709_ccs	1	4	3	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	4572-78	1	1	1	NAK82	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_5179205_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	1	1	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_52037680_ccs	1	3	2	2	2	Myxococcota A	2	2	1	Polyangia	2	2	1	Polyangiales	2	2	1	JADJMO01	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_52298234_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Chloroflexia	1	1	1	Thermobaculales	1	1	1	Thermobaculaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_5243665_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	Phototrophicaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_5441164_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_54790176_ccs	1	6	5	2	1	Chloroflexota	1	1	1	Chloroflexia	1	1	1	Chloroflexales	1	1	1	Chloroflexaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_55511023_ccs	1	3	2	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_55904491_ccs	1	7	6	4	4	Chloroflexota	4	4	1	Anaerolineae	4	4	1	Anaerolineales	3	3	1	Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_57344292_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	3	3	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_5834531_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_58526528_ccs	1	4	3	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_58655946_ccs	1	4	3	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	Phototrophicaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_59310119_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Aggregatilineales	3	3	1	J027	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_59509297_ccs	1	3	2	1	1	Bacillota	1	1	1	Bacilli	1	1	1	Paenibacillales	1	1	1	Paenibacillaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_60163158_ccs	1	9	8	7	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	3	3	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_6096720_ccs	1	8	7	6	4	Chloroflexota	3	4	0.75	Anaerolineae	3	3	1	Caldilineales	3	3	1	Caldilineaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_61669840_ccs	1	4	3	3	3	Acidobacteriota	2	3	0.666666666666667	Unclassified	0	2		Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_62391655_ccs	1	2	1	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_6424324_ccs	1	2	1	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_65341826_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	3	3	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_65930916_ccs	1	5	4	4	4	Bacillota	4	4	1	Bacilli	4	4	1	Unclassified	0	2		Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_67176072_ccs	1	5	4	4	4	Chloroflexota	4	4	1	Limnocylindria	4	4	1	Limnocylindrales	4	4	1	CSP1-4	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_67503126_ccs	1	6	5	1	1	Chloroflexota	1	1	1	Dehalococcoidia	1	1	1	UBA2979	1	1	1	UBA2979	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_68683318_ccs	1	6	5	5	5	Chloroflexota	5	5	1	Anaerolineae	4	5	0.8	Anaerolineales	4	4	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_69404653_ccs	1	2	1	1	1	Actinomycetota	1	1	1	Actinomycetes	1	1	1	Actinomycetales	1	1	1	Micrococcaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_70124915_ccs	2	3	1	1	1	Bacillota	1	1	1	Bacilli	1	1	1	Unclassified	0	0		Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_70255770_ccs	1	3	2	2	2	Actinomycetota	2	2	1	Actinomycetes	2	2	1	Actinomycetales	2	2	1	Dermatophilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_71174192_ccs	1	4	3	3	3	Acidobacteriota	3	3	1	Vicinamibacteria	2	3	0.666666666666667	Vicinamibacterales	2	2	1	Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_71369242_ccs	1	4	3	3	3	Pseudomonadota	3	3	1	Gammaproteobacteria	3	3	1	Enterobacterales	3	3	1	Enterobacteriaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_71764285_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Chloroflexia	1	1	1	Chloroflexales	1	1	1	Roseiflexaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_71894857_ccs	1	7	6	6	6	Chloroflexota	6	6	1	Anaerolineae	6	6	1	Anaerolineales	6	6	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_7209715_ccs	1	2	1	1	1	Bacillota	1	1	1	Sulfobacillia	1	1	1	Thermaerobacterales	1	1	1	Thermaerobacteraceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_72680890_ccs	1	2	1	1	1	Acidobacteriota	1	1	1	Vicinamibacteria	1	1	1	Vicinamibacterales	1	1	1	SCN-69-37	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_73728373_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Caldilineales	2	2	1	Caldilineaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_74252623_ccs	1	6	5	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Anaerolineales	3	3	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_75565290_ccs	2	5	3	3	3	Actinomycetota	3	3	1	Actinomycetes	3	3	1	Streptomycetales	2	3	0.666666666666667	Streptomycetaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_77792705_ccs	1	2	1	1	1	Bacillota	1	1	1	Clostridia	1	1	1	Acetivibrionales	1	1	1	DTU013	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_81002702_ccs	1	6	5	3	3	Chloroflexota	3	3	1	Limnocylindria	3	3	1	Limnocylindrales	3	3	1	CSP1-4	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_81397340_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Unclassified	0	2		Unclassified	0	0		Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_81592985_ccs	1	4	3	2	2	Unclassified	0	2		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_81723899_ccs	1	5	4	3	2	Bacillota	2	2	1	Bacilli	1	1	1	Unclassified	0	0		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_8258968_ccs	1	2	1	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_82708983_ccs	1	3	2	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_83560680_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_84279906_ccs	1	7	6	4	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Unclassified	0	2		Unclassified	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_854716_ccs	1	3	2	2	2	Bacteroidota	2	2	1	Bacteroidia	2	2	1	Flavobacteriales C	2	2	1	GCA-002722245	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_85852941_ccs	1	3	2	2	2	Chloroflexota	2	2	1	Anaerolineae	2	2	1	Anaerolineales	2	2	1	Villigracilaceae	Medium	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_89065282_ccs	1	3	2	1	1	Cyanobacteriota	1	1	1	Cyanobacteriia	1	1	1	Cyanobacteriales	1	1	1	Nostocaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_89196896_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Anaerolineae	3	3	1	Promineifilales	3	3	1	Promineifilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_90636683_ccs	1	3	2	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	UBA4823	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_92209946_ccs	1	3	2	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	Unclassified	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_92275544_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Promineifilales	1	1	1	Promineifilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_92669534_ccs	1	3	2	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Promineifilales	1	1	1	Promineifilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_93063368_ccs	1	5	4	3	3	Chloroflexota	3	3	1	Limnocylindria	3	3	1	Limnocylindrales	3	3	1	CSP1-4	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_93129255_ccs	1	1	0	0	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_93323327_ccs	1	3	2	2	2	Unclassified	0	2		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_93651668_ccs	1	5	4	4	4	Unclassified	0	4		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_94111827_ccs	1	5	4	4	4	Chloroflexota	4	4	1	Unclassified	0	4		Unclassified	0	0		Unclassified	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_94830733_ccs	1	4	3	3	3	Chloroflexota	3	3	1	Limnocylindria	3	3	1	QHBO01	2	2	1	QHBO01	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_94962051_ccs	1	2	1	1	0	Unclassified	0	0		Unclassified	0	0		Unclassified	0	0		Unclassified	Unclassified	no_consistent_non_target_ORF_GTDB_taxonomy
+m64108e_210808_121834_95486500_ccs	1	4	3	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	Phototrophicaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_95618774_ccs	1	3	2	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Villigracilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_95619378_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Aggregatilineales	1	1	1	Phototrophicaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_96337945_ccs	1	4	3	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Caldilineales	1	1	1	Caldilineaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_97584646_ccs	1	3	2	2	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Promineifilales	1	1	1	Promineifilaceae	Low	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_98173217_ccs	1	7	6	6	6	Bacillota	6	6	1	Bacilli	4	5	0.8	Paenibacillales	4	4	1	NBRC-103111	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_98305711_ccs	1	5	4	4	4	Chloroflexota	4	4	1	Anaerolineae	4	4	1	Anaerolineales	4	4	1	Villigracilaceae	High	non_target_ORF_GTDB_consensus
+m64108e_210808_121834_98568588_ccs	1	2	1	1	1	Chloroflexota	1	1	1	Anaerolineae	1	1	1	Anaerolineales	1	1	1	Villigracilaceae	Low	non_target_ORF_GTDB_consensus

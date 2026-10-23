@@ -1,0 +1,659 @@
+[
+  {
+    "label": "SatA",
+    "reference": true,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/3PP9/3PP9_chainA.pdb",
+    "sha256": "0443151b3437b01f2e69c9cf7f918764ce7c6fffb6c619eafb78e2d1b8669279",
+    "structure_id": "3PP9",
+    "chain": "A",
+    "structure_type": "experimental_crystal_structure",
+    "sequence_residues": 187,
+    "coordinate_residues": 176,
+    "coordinate_span": [
+      2,
+      182
+    ],
+    "missing_coordinate_residues": [
+      1,
+      56,
+      57,
+      58,
+      59,
+      60,
+      183,
+      184,
+      185,
+      186,
+      187
+    ],
+    "plddt_available": false,
+    "display_fill": "neutral_gray"
+  },
+  {
+    "label": "SatB",
+    "reference": true,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/fold_satb/fold_satb_model_0.cif",
+    "sha256": "bae7e432f6334d56d705eead2b6222fcf1123ac8444769e0e643b35f80c91e71",
+    "model_index": 0,
+    "ranking_score": 0.93,
+    "ptm": 0.87,
+    "residues": 196,
+    "mean_ca_plddt": 89.20326232910156,
+    "display_transform": [
+      [
+        0.22303479719674724,
+        -0.9068554006345811,
+        0.35758741809423145,
+        1.4075492505914526
+      ],
+      [
+        0.7300510364565689,
+        0.39847402333619797,
+        0.5551972054098905,
+        0.4310349883867106
+      ],
+      [
+        -0.6459728813255976,
+        0.1372287690907264,
+        0.7509242981324739,
+        -0.37161507947926403
+      ]
+    ],
+    "view_width_angstrom": 100.64620873741374,
+    "previous_source": "/Users/lufanyang/Downloads/fold_satb/fold_satb_model_0.cif"
+  },
+  {
+    "label": "HIT_000008",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/fold_soil_ntc_acetyltransferase_hit0008/fold_soil_ntc_acetyltransferase_hit0008_model_0.cif",
+    "sha256": "9ef655c99046a07d48fc2c4bc930ea9a71e5803b3dc3a6faed03dd10ccad8470",
+    "model_index": 0,
+    "ranking_score": 0.92,
+    "ptm": 0.92,
+    "residues": 187,
+    "mean_ca_plddt": 95.90950775146484,
+    "display_transform": [
+      [
+        0.6080509339844418,
+        0.5052391844719821,
+        0.6123785007287035,
+        -1.0310974912972117
+      ],
+      [
+        -0.11788880762062642,
+        0.8202667996863587,
+        -0.5597004612916503,
+        -2.9845130230671155
+      ],
+      [
+        -0.7850963576010497,
+        0.2681338169764971,
+        0.5583260386863391,
+        -0.5420723200693535
+      ]
+    ],
+    "view_width_angstrom": 98.74679310790076,
+    "previous_source": "/Users/lufanyang/Downloads/fold_soil_ntc_acetyltransferase_hit0008/fold_soil_ntc_acetyltransferase_hit0008_model_0.cif"
+  },
+  {
+    "label": "HIT_000035",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit035/fold_soil_ntc_acetyltransferase_hit035_model_0.cif",
+    "sha256": "97ea321f218c2d600260c7fa8b224cb4aedec23e60f7e1a0044c15226284cf46",
+    "model_index": 0,
+    "ranking_score": 0.84,
+    "ptm": 0.84,
+    "residues": 307,
+    "mean_ca_plddt": 93.38846588134766,
+    "display_transform": [
+      [
+        0.7689240153327339,
+        0.14772246546657852,
+        0.6220401368409121,
+        1.8867278235099658
+      ],
+      [
+        -0.008076905285024456,
+        -0.9706186959296117,
+        0.2404872360706837,
+        -0.12613197827773048
+      ],
+      [
+        0.6392891538620078,
+        -0.1899405704644889,
+        -0.7451388846691751,
+        0.04509227334114364
+      ]
+    ],
+    "view_width_angstrom": 107.14582607283978,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit035/fold_soil_ntc_acetyltransferase_hit035_model_0.cif"
+  },
+  {
+    "label": "HIT_000040",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit40/fold_soil_ntc_acetyltransferase_hit40_model_0.cif",
+    "sha256": "3667a2ab34d394f21738f9fd7974f6ac87fd0b9f9756fa60e9713c5ce23ef09b",
+    "model_index": 0,
+    "ranking_score": 0.92,
+    "ptm": 0.92,
+    "residues": 178,
+    "mean_ca_plddt": 95.28134155273438,
+    "display_transform": [
+      [
+        -0.02188381156043477,
+        0.8980958709902318,
+        -0.439254943400623,
+        -0.43785011144254904
+      ],
+      [
+        0.7504984133994258,
+        0.3050284010170317,
+        0.586267691466908,
+        0.6940116177245778
+      ],
+      [
+        0.6605098260257241,
+        -0.3168303664159892,
+        -0.6806947103071819,
+        -1.9390765942866128
+      ]
+    ],
+    "view_width_angstrom": 88.69841040634527,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit40/fold_soil_ntc_acetyltransferase_hit40_model_0.cif"
+  },
+  {
+    "label": "HIT_000057",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit57/fold_soil_ntc_acetyltransferase_hit57_model_0.cif",
+    "sha256": "2406dabd8e7e40a283f62a6a2434078e1e64600b8fcab357d285ff9eb6315746",
+    "model_index": 0,
+    "ranking_score": 0.9,
+    "ptm": 0.9,
+    "residues": 185,
+    "mean_ca_plddt": 92.31221771240234,
+    "display_transform": [
+      [
+        -0.6313594832385221,
+        0.33921620008502057,
+        0.6973647342135009,
+        0.41545410319286424
+      ],
+      [
+        -0.745600450826886,
+        -0.5127816901083396,
+        -0.4255994666542473,
+        0.027499051490478262
+      ],
+      [
+        0.2132256331952868,
+        -0.788661719553774,
+        0.5766693345921517,
+        0.6181949230272308
+      ]
+    ],
+    "view_width_angstrom": 94.1224985771522,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit57/fold_soil_ntc_acetyltransferase_hit57_model_0.cif"
+  },
+  {
+    "label": "HIT_000091",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/fold_soil_ntc_acetyltransferase_hit91/fold_soil_ntc_acetyltransferase_hit91_model_0.cif",
+    "sha256": "8855dfc4d1e9c6b9f32e2f72a7841bd4542f21d4ebf2406c4d2c57d59da128f9",
+    "model_index": 0,
+    "ranking_score": 0.94,
+    "ptm": 0.91,
+    "residues": 191,
+    "mean_ca_plddt": 94.87869262695312,
+    "display_transform": [
+      [
+        0.4376236271056332,
+        0.4721880980399898,
+        -0.7651953744425581,
+        -1.7259225140628955
+      ],
+      [
+        -0.8781854949136904,
+        0.40718681156448144,
+        -0.2509763674355577,
+        1.7267097788366184
+      ],
+      [
+        0.19306941115077314,
+        0.7818166668454494,
+        0.5928633079560289,
+        -0.8962377232417509
+      ]
+    ],
+    "view_width_angstrom": 98.31962536480063,
+    "previous_source": "/Users/lufanyang/Downloads/fold_soil_ntc_acetyltransferase_hit91/fold_soil_ntc_acetyltransferase_hit91_model_0.cif"
+  },
+  {
+    "label": "HIT_000118",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit118/fold_soil_ntc_acetyltransferase_hit118_model_0.cif",
+    "sha256": "b745ed46c1a2c621a2239aed6185b3757344fff840d9cdabb7c8ae96220088db",
+    "model_index": 0,
+    "ranking_score": 0.92,
+    "ptm": 0.92,
+    "residues": 181,
+    "mean_ca_plddt": 93.8407211303711,
+    "display_transform": [
+      [
+        0.0001105469937248077,
+        -0.9589660146632626,
+        -0.28352102303043014,
+        -0.03536967846757509
+      ],
+      [
+        -0.21093355857656457,
+        -0.27716427654352477,
+        0.9373830581327635,
+        -0.24227288822179144
+      ],
+      [
+        -0.9775003947035468,
+        0.059700473440031605,
+        -0.20230875370444779,
+        -0.6453260871487984
+      ]
+    ],
+    "view_width_angstrom": 71.65975901220516,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit118/fold_soil_ntc_acetyltransferase_hit118_model_0.cif"
+  },
+  {
+    "label": "HIT_000122",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/fold_soil_ntc_acetyltransferase_hit122/fold_soil_ntc_acetyltransferase_hit122_model_0.cif",
+    "sha256": "12fc9440ca6deba6e9bf61db3a91a8178b1a74e8a2c41cb3f5c84770e1d189df",
+    "model_index": 0,
+    "ranking_score": 0.78,
+    "ptm": 0.69,
+    "residues": 138,
+    "mean_ca_plddt": 74.28500366210938,
+    "display_transform": [
+      [
+        0.98310861252293,
+        0.0191725308638589,
+        0.18201612577877252,
+        -0.704835309518737
+      ],
+      [
+        -0.17700023199782453,
+        0.35262222700365387,
+        0.9188734857942633,
+        1.2133773110758679
+      ],
+      [
+        -0.046565801356315814,
+        -0.9355693341934944,
+        0.35005949074519627,
+        -0.061201624142524155
+      ]
+    ],
+    "view_width_angstrom": 64.54827207043786,
+    "previous_source": "/Users/lufanyang/Downloads/fold_soil_ntc_acetyltransferase_hit122/fold_soil_ntc_acetyltransferase_hit122_model_0.cif"
+  },
+  {
+    "label": "HIT_000135",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/fold_soil_ntc_acetyltransferase_hit135/fold_soil_ntc_acetyltransferase_hit135_model_0.cif",
+    "sha256": "e6c43df191097bac7574118f8d4bad6dfed55c95b0b6c3acd13eb73c75cb7cb6",
+    "model_index": 0,
+    "ranking_score": 0.95,
+    "ptm": 0.89,
+    "residues": 137,
+    "mean_ca_plddt": 93.98678588867188,
+    "display_transform": [
+      [
+        0.5091709793488741,
+        -0.655094207317438,
+        0.5582082884802458,
+        -0.4553592241386171
+      ],
+      [
+        0.7866929675054135,
+        0.09118415425718554,
+        -0.6105731937203991,
+        -1.951773569855773
+      ],
+      [
+        0.3490832116651191,
+        0.7500246859614279,
+        0.5617863310743918,
+        0.20137016636606053
+      ]
+    ],
+    "view_width_angstrom": 84.02229671453787,
+    "previous_source": "/Users/lufanyang/Downloads/fold_soil_ntc_acetyltransferase_hit135/fold_soil_ntc_acetyltransferase_hit135_model_0.cif"
+  },
+  {
+    "label": "HIT_000151",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit151/fold_soil_ntc_acetyltransferase_hit151_model_0.cif",
+    "sha256": "65c25621b7b0486a8e19af3b4f8f65b625ced28ef5d05a4f3ac589efbac6a1b2",
+    "model_index": 0,
+    "ranking_score": 0.94,
+    "ptm": 0.94,
+    "residues": 188,
+    "mean_ca_plddt": 97.48946380615234,
+    "display_transform": [
+      [
+        -0.2824601323060896,
+        0.8048461064227788,
+        -0.5219569126218365,
+        1.0222545754113708
+      ],
+      [
+        0.946734548627111,
+        0.14618120847764268,
+        -0.2869228968274173,
+        -1.6807231506511835
+      ],
+      [
+        -0.15462848409477203,
+        -0.5751989214733536,
+        -0.8032659787657163,
+        -1.113465998404369
+      ]
+    ],
+    "view_width_angstrom": 83.35478835295652,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit151/fold_soil_ntc_acetyltransferase_hit151_model_0.cif"
+  },
+  {
+    "label": "HIT_000156",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit156/fold_soil_ntc_acetyltransferase_hit156_model_0.cif",
+    "sha256": "571629ffbdd76b373f73ae5a77d6cb9eef1c7c6ab8e8d7f60644f1ffaa4062b3",
+    "model_index": 0,
+    "ranking_score": 0.94,
+    "ptm": 0.94,
+    "residues": 177,
+    "mean_ca_plddt": 96.976318359375,
+    "display_transform": [
+      [
+        -0.913627694664488,
+        -0.3359596406974916,
+        0.22894443728657132,
+        0.9693943865723558
+      ],
+      [
+        -0.3086452191745094,
+        0.9397070976420664,
+        0.1472708366304836,
+        0.7974303387040671
+      ],
+      [
+        -0.2646177700434563,
+        0.06388810893692065,
+        -0.9622347662154448,
+        0.04879469991419451
+      ]
+    ],
+    "view_width_angstrom": 82.18284871367037,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit156/fold_soil_ntc_acetyltransferase_hit156_model_0.cif"
+  },
+  {
+    "label": "HIT_000178",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit178/fold_soil_ntc_acetyltransferase_hit178_model_0.cif",
+    "sha256": "84aef081dd90af8c6fe6c9e706bef099d89e6bdea42e2a9f5dea792154c3e631",
+    "model_index": 0,
+    "ranking_score": 0.92,
+    "ptm": 0.91,
+    "residues": 323,
+    "mean_ca_plddt": 94.67436981201172,
+    "display_transform": [
+      [
+        0.027523818515119296,
+        -0.46608429799457113,
+        -0.8843120866398102,
+        0.46730617783136663
+      ],
+      [
+        -0.8497121306870765,
+        0.4550593452592979,
+        -0.2662898557125459,
+        1.0465774671674675
+      ],
+      [
+        0.5265279996140532,
+        0.7587400209920971,
+        -0.3835125110962314,
+        -0.5037257882621209
+      ]
+    ],
+    "view_width_angstrom": 111.69476686607429,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit178/fold_soil_ntc_acetyltransferase_hit178_model_0.cif"
+  },
+  {
+    "label": "HIT_000185",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit185/fold_soil_ntc_acetyltransferase_hit185_model_0.cif",
+    "sha256": "ded998a953218c020043deb00966a70dface8c908ffbe36e9199e12b4294d9ff",
+    "model_index": 0,
+    "ranking_score": 0.86,
+    "ptm": 0.68,
+    "residues": 199,
+    "mean_ca_plddt": 68.08642578125,
+    "display_transform": [
+      [
+        0.765271984967096,
+        -0.6436644023853442,
+        0.007411216259008018,
+        -1.3821927983628846
+      ],
+      [
+        0.3860776266507859,
+        0.44974583108302696,
+        -0.8054022309524186,
+        0.28492095487853364
+      ],
+      [
+        0.5150755820500678,
+        0.6192130687617584,
+        0.5926823097161145,
+        0.551654533953787
+      ]
+    ],
+    "view_width_angstrom": 129.1432705096929,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit185/fold_soil_ntc_acetyltransferase_hit185_model_0.cif"
+  },
+  {
+    "label": "HIT_000196",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit196/fold_soil_ntc_acetyltransferase_hit196_model_0.cif",
+    "sha256": "8691d77a481a40a86f81e737449c3dbe2474407a4c823d16e8e66f08ca2b7c88",
+    "model_index": 0,
+    "ranking_score": 0.92,
+    "ptm": 0.92,
+    "residues": 174,
+    "mean_ca_plddt": 95.58872985839844,
+    "display_transform": [
+      [
+        -0.2240446044096718,
+        -0.11376043746639312,
+        -0.9679166173293899,
+        -1.1678862675200183
+      ],
+      [
+        0.021752511126928338,
+        -0.993500244235574,
+        0.11173223779879998,
+        -0.018972299020747114
+      ],
+      [
+        -0.9743361039675101,
+        0.003978388029043128,
+        0.22506294438246346,
+        0.3752557567275351
+      ]
+    ],
+    "view_width_angstrom": 74.90394602078987,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit196/fold_soil_ntc_acetyltransferase_hit196_model_0.cif"
+  },
+  {
+    "label": "HIT_000197",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit197/fold_soil_ntc_acetyltransferase_hit197_model_0.cif",
+    "sha256": "7dd2b85bea85d643a94260af56bccd58cb9ae4e1327e5d66db1f3091007a6da0",
+    "model_index": 0,
+    "ranking_score": 0.94,
+    "ptm": 0.94,
+    "residues": 180,
+    "mean_ca_plddt": 97.32950592041016,
+    "display_transform": [
+      [
+        0.46481280638819267,
+        0.4978578463316766,
+        0.7321793631778464,
+        2.051656557170317
+      ],
+      [
+        -0.20878026744318026,
+        -0.7419916339364819,
+        0.637070808540639,
+        1.4051258467080565
+      ],
+      [
+        0.8604416627197254,
+        -0.44898327364641755,
+        -0.24094431938076352,
+        -0.4359664440588915
+      ]
+    ],
+    "view_width_angstrom": 91.82374927290597,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit197/fold_soil_ntc_acetyltransferase_hit197_model_0.cif"
+  },
+  {
+    "label": "HIT_000213",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit213/fold_soil_ntc_acetyltransferase_hit213_model_0.cif",
+    "sha256": "e9488dfec0fdc77fb4b478ac27323e8da4b2dea12bf12e6f3cfdb2718b417a7f",
+    "model_index": 0,
+    "ranking_score": 0.97,
+    "ptm": 0.89,
+    "residues": 159,
+    "mean_ca_plddt": 93.36956024169922,
+    "display_transform": [
+      [
+        -0.6911774194588515,
+        0.7202395907061917,
+        -0.059402919200825736,
+        0.4087974664088677
+      ],
+      [
+        -0.335905243606021,
+        -0.3929521849319906,
+        -0.8560118268313555,
+        -1.8006547679995648
+      ],
+      [
+        -0.6398761146879779,
+        -0.5717022934504914,
+        0.5135319323228748,
+        0.21106041382467636
+      ]
+    ],
+    "view_width_angstrom": 88.7424630592356,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit213/fold_soil_ntc_acetyltransferase_hit213_model_0.cif"
+  },
+  {
+    "label": "HIT_000242",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/fold_soil_ntc_acetyltransferase_hit242/fold_soil_ntc_acetyltransferase_hit242_model_0.cif",
+    "sha256": "f2f51ee3d3bd2a5c194e5f1201864b556e3e7b951ef3a7a8f45094715f9a83fa",
+    "model_index": 0,
+    "ranking_score": 0.95,
+    "ptm": 0.94,
+    "residues": 177,
+    "mean_ca_plddt": 97.29450988769531,
+    "display_transform": [
+      [
+        -0.7744359334056832,
+        -0.6112226753936871,
+        -0.16326612059656448,
+        0.07256520964631524
+      ],
+      [
+        -0.3176518033116528,
+        0.15249086272506707,
+        0.9358653047518214,
+        0.14260334246529888
+      ],
+      [
+        -0.5471255037949917,
+        0.7766294984546674,
+        -0.31225038867410293,
+        -0.27654207912561024
+      ]
+    ],
+    "view_width_angstrom": 90.28926158900133,
+    "previous_source": "/Users/lufanyang/Downloads/fold_soil_ntc_acetyltransferase_hit242/fold_soil_ntc_acetyltransferase_hit242_model_0.cif"
+  },
+  {
+    "label": "HIT_000259",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit259/fold_soil_ntc_acetyltransferase_hit259_model_0.cif",
+    "sha256": "cbcd3661a7009b3f44d7f5b3aa1efcfbdfc84f5ab5cadcfdf23bc00124ba27c2",
+    "model_index": 0,
+    "ranking_score": 0.95,
+    "ptm": 0.94,
+    "residues": 178,
+    "mean_ca_plddt": 97.53780364990234,
+    "display_transform": [
+      [
+        0.8066614966548601,
+        -0.566067205091223,
+        -0.16989746653424007,
+        1.3652283373332161
+      ],
+      [
+        -0.5466056879941166,
+        -0.8238847857902333,
+        0.1497867871204293,
+        1.27587323255401
+      ],
+      [
+        -0.22476532576672112,
+        -0.027960312294282738,
+        -0.9740116884665131,
+        -0.20877687797736566
+      ]
+    ],
+    "view_width_angstrom": 88.31117211318598,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit259/fold_soil_ntc_acetyltransferase_hit259_model_0.cif"
+  },
+  {
+    "label": "HIT_000262",
+    "reference": false,
+    "source": "/Users/lufanyang/Project/soil_ntc_project/AF3/soil_ntc_acetyltransferase_hit262/fold_soil_ntc_acetyltransferase_hit262_model_0.cif",
+    "sha256": "cdc80cfcd46d3b8f7e6003db4fffe84831fada052cc5bd6f5a682477cb914678",
+    "model_index": 0,
+    "ranking_score": 0.94,
+    "ptm": 0.94,
+    "residues": 178,
+    "mean_ca_plddt": 96.76624298095703,
+    "display_transform": [
+      [
+        -0.7139977454328341,
+        -0.03477923223648782,
+        0.6992836509756755,
+        1.8348803233225344
+      ],
+      [
+        -0.13761418128369288,
+        0.9862544204929615,
+        -0.09145794207017617,
+        0.3093358878031506
+      ],
+      [
+        -0.6864907549460872,
+        -0.16153211155412175,
+        -0.7089695482250405,
+        -0.6052043217605616
+      ]
+    ],
+    "view_width_angstrom": 89.68225951678333,
+    "previous_source": "/Users/lufanyang/Downloads/soil_ntc_acetyltransferase_hit262/fold_soil_ntc_acetyltransferase_hit262_model_0.cif"
+  }
+]

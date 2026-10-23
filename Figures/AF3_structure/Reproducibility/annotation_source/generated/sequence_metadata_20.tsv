@@ -1,0 +1,21 @@
+candidate_id	sequence_type	construct_label	round	sequencing_batch	used_start_1based_inclusive	selected_cds_nt	selected_protein_aa	reference_original_id	nucleotide_coordinates_available
+HIT_000122	Sequenced candidate	HIT_000122	Round1	MZ5M6L	1	417	138	NA	TRUE
+HIT_000135	Sequenced candidate	HIT_000135	Round1	MZ5M6L	1	414	137	NA	TRUE
+HIT_000242	Sequenced candidate	HIT_000242	Round2	H83ST2	1	534	177	NA	TRUE
+HIT_000091	Sequenced candidate	HIT_000091	Round2	H83ST2	1	576	191	NA	TRUE
+HIT_000259	Sequenced candidate	HIT_000259big	Round2	H83ST2	34	537	178	NA	TRUE
+HIT_000197	Sequenced candidate	HIT_000197	Round2	H83ST2	1	543	180	NA	TRUE
+HIT_000008	Sequenced candidate	HIT_000008	Round2	H83ST2	1	564	187	NA	TRUE
+HIT_000057	Sequenced candidate	HIT_000057	Round2	H83ST2	1	558	185	NA	TRUE
+HIT_000118	Sequenced candidate	HIT_000118	Round2	H83ST2	1	546	181	NA	TRUE
+HIT_000040	Sequenced candidate	HIT_000040	Round2	H83ST2	1	537	178	NA	TRUE
+HIT_000156	Sequenced candidate	HIT_000156	Round2	H83ST2	1	534	177	NA	TRUE
+HIT_000262	Sequenced candidate	HIT_000262	Round2	H83ST2	47	537	178	NA	TRUE
+HIT_000178	Sequenced candidate	HIT_000178	Round3	Y8R4GY	1	972	323	NA	TRUE
+HIT_000185	Sequenced candidate	HIT_000185	Round3	Y8R4GY	47	600	199	NA	TRUE
+HIT_000151	Sequenced candidate	HIT_000151	Round3	Y8R4GY	1	567	188	NA	TRUE
+HIT_000035	Sequenced candidate	HIT_000035	Round3	Y8R4GY	1	924	307	NA	TRUE
+HIT_000196	Sequenced candidate	HIT_000196	Round3	Y8R4GY	9	525	174	NA	TRUE
+HIT_000213	Sequenced candidate	HIT_000213	Round3	Y8R4GY	1	480	159	NA	TRUE
+SatA	Reference	SatA	Reference	NA	NA	NA	184	gb|AAP26981.1|SatA [Bacillus anthracis str. Ames]	FALSE
+SatB	Reference	SatB	Reference	NA	NA	NA	196	SatB	FALSE

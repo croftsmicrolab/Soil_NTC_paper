@@ -1,0 +1,109 @@
+{
+  "source": "/Users/lufanyang/Project/soil_ntc_project/tree/crofts_and_paper_acetyltransferase_method3_after_sequence/final_tree_tip_color_groups.tsv",
+  "source_figure": "/Users/lufanyang/Project/soil_ntc_project/tree/crofts_and_paper_acetyltransferase_method3_after_sequence/final_tree_semicircular_sat_highlight.png",
+  "red_name_color": "#D73027",
+  "detected": [
+    "HIT_000008",
+    "HIT_000040",
+    "HIT_000057",
+    "HIT_000091",
+    "HIT_000118",
+    "HIT_000156",
+    "HIT_000197",
+    "HIT_000242",
+    "HIT_000259",
+    "HIT_000262"
+  ],
+  "labels": [
+    {
+      "label": "HIT_000122",
+      "source_display_label": "HIT_000122",
+      "ntc_resistance": "Not detected"
+    },
+    {
+      "label": "HIT_000135",
+      "source_display_label": "HIT_000135",
+      "ntc_resistance": "Not detected"
+    },
+    {
+      "label": "HIT_000057",
+      "source_display_label": "HIT_000057",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000008",
+      "source_display_label": "HIT_000008",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000196",
+      "source_display_label": "HIT_000196",
+      "ntc_resistance": "Not detected"
+    },
+    {
+      "label": "HIT_000242",
+      "source_display_label": "HIT_000242",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000091",
+      "source_display_label": "HIT_000091",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000118",
+      "source_display_label": "HIT_000118",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000040",
+      "source_display_label": "HIT_000040",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000156",
+      "source_display_label": "HIT_000156",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000262",
+      "source_display_label": "HIT_000262",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000213",
+      "source_display_label": "HIT_000213",
+      "ntc_resistance": "Not detected"
+    },
+    {
+      "label": "HIT_000197",
+      "source_display_label": "HIT_000197",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000259",
+      "source_display_label": "HIT_000259big",
+      "ntc_resistance": "Detected"
+    },
+    {
+      "label": "HIT_000185",
+      "source_display_label": "HIT_000185",
+      "ntc_resistance": "Not detected"
+    },
+    {
+      "label": "HIT_000178",
+      "source_display_label": "HIT_000178",
+      "ntc_resistance": "Not detected"
+    },
+    {
+      "label": "HIT_000035",
+      "source_display_label": "HIT_000035",
+      "ntc_resistance": "Not detected"
+    },
+    {
+      "label": "HIT_000151",
+      "source_display_label": "HIT_000151",
+      "ntc_resistance": "Not detected"
+    }
+  ]
+}

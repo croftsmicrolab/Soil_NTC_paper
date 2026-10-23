@@ -1,0 +1,307 @@
+{
+  "source": "/Users/lufanyang/Project/soil_ntc_project/test/gnat_domain_coordinates_20/gnat_domain_coordinates_20.tsv",
+  "source_sha256": "81f97be927222a6860bc0378a033439779f263347de75cc9d63351b4874d8705",
+  "coordinate_policy": "Use supplied aa_alignment_start/end without adjustment; 1-based inclusive; all 21 provided regions retained",
+  "models": {
+    "SatA": {
+      "regions": [
+        [
+          53,
+          157
+        ]
+      ],
+      "status": "mapped_from_identical_SatA_sequence_with_3_residue_N_terminal_offset",
+      "exact_sequence_match_after_offset": true,
+      "source_sequence_length": 184,
+      "protein_length": 187,
+      "sequence_offset": 3,
+      "source_regions": [
+        [
+          50,
+          154
+        ]
+      ],
+      "source_region_numbers": [
+        1
+      ],
+      "missing_coordinate_residues_within_region": [
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    "SatB": {
+      "regions": [
+        [
+          72,
+          169
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 196,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000008": {
+      "regions": [
+        [
+          63,
+          159
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 187,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000035": {
+      "regions": [
+        [
+          56,
+          133
+        ],
+        [
+          199,
+          296
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 307,
+      "source_region_numbers": [
+        1,
+        2
+      ]
+    },
+    "HIT_000040": {
+      "regions": [
+        [
+          49,
+          148
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 178,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000057": {
+      "regions": [
+        [
+          48,
+          155
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 185,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000091": {
+      "regions": [
+        [
+          49,
+          149
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 191,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000118": {
+      "regions": [
+        [
+          55,
+          153
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 181,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000122": {
+      "regions": [
+        [
+          23,
+          127
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 138,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000135": {
+      "regions": [
+        [
+          4,
+          109
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 137,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000151": {
+      "regions": [
+        [
+          11,
+          152
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 188,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000156": {
+      "regions": [
+        [
+          48,
+          149
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 177,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000178": {
+      "regions": [
+        [
+          190,
+          310
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 323,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000185": {
+      "regions": [
+        [
+          109,
+          197
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 199,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000196": {
+      "regions": [
+        [
+          49,
+          148
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 174,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000197": {
+      "regions": [
+        [
+          49,
+          149
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 180,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000213": {
+      "regions": [
+        [
+          26,
+          130
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 159,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000242": {
+      "regions": [
+        [
+          50,
+          149
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 177,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000259": {
+      "regions": [
+        [
+          56,
+          150
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 178,
+      "source_region_numbers": [
+        1
+      ]
+    },
+    "HIT_000262": {
+      "regions": [
+        [
+          45,
+          151
+        ]
+      ],
+      "status": "provided_annotation",
+      "exact_sequence_match": true,
+      "protein_length": 178,
+      "source_region_numbers": [
+        1
+      ]
+    }
+  }
+}

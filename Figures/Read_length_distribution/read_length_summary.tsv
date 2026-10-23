@@ -1,0 +1,2 @@
+n_reads	total_length_bp	mean_length_bp	mean_length_kb	median_length_bp	sd_length_bp	min_length_bp	max_length_bp	q25_length_bp	q75_length_bp	n50_length_bp	duplicate_header_count
+495942	915292026	1845.56263837304	1.84556263837304	1714	525.102487090152	100	6266	1456	2109	1858	0
