@@ -402,7 +402,7 @@ p1 <- ggplot(
   )
 
 
-p1
+if (interactive()) print(p1)
 
 
 
@@ -675,7 +675,7 @@ p2 <- ggplot(
   )
 
 
-p2
+if (interactive()) print(p2)
 
 
 

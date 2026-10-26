@@ -108,6 +108,6 @@ figure <- (full / detail) +
                   plot.margin = margin(12, 14, 12, 12))
   ) & theme(legend.position = "right")
 
-figure
+if (interactive()) print(figure)
 ggsave(pdf_path, figure, width = 13, height = 9.5, units = "in", bg = "white")
 

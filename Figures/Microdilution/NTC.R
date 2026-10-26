@@ -824,7 +824,7 @@ theme_classic(
   )
 
 
-p1_NTC
+if (interactive()) print(p1_NTC)
 
 
 
@@ -1482,7 +1482,7 @@ p2_NTC <- patchwork::wrap_plots(
 )
 
 
-p2_NTC
+if (interactive()) print(p2_NTC)
 
 
 

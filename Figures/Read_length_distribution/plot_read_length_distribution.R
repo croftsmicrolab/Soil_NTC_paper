@@ -231,7 +231,7 @@ p <- ggplot(bins) +
 
 
 # Display in RStudio
-print(p)
+if (interactive()) print(p)
 
 
 # ============================================================

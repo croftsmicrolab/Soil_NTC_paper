@@ -385,7 +385,7 @@ p1_GEN <- ggplot(
   )
 
 
-p1_GEN
+if (interactive()) print(p1_GEN)
 
 
 
@@ -645,7 +645,7 @@ p2_GEN <- ggplot(
     labels = function(x) sub("^GEN_", "", x)
   )
 
-p2_GEN
+if (interactive()) print(p2_GEN)
 
 
 

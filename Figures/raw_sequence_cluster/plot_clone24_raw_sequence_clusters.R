@@ -95,6 +95,6 @@ plot <- ggplot(curve, aes(rank, size)) +
         plot.title = element_text(size = 18, face = "bold", hjust = 0.5),
         plot.subtitle = element_text(size = 12, hjust = 0.5),
         plot.margin = margin(12, 16, 12, 12))
-plot
+if (interactive()) print(plot)
 
 ggsave(pdf_path, plot, width = 15, height = 7, units = "in", bg = "white")

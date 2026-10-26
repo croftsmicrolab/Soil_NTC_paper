@@ -1,6 +1,6 @@
 # Soil NTC paper
 
-Code, input data and final illustrations for the Soil NTC manuscript.
+Code, input data and final illustrations for the manuscript “*Abundance-weighted analysis and deep functional metagenomic selection reveals unrecognized diversity of soil-derived streptothricin acetyltransferases*.”
 Each analysis folder contains the files needed by its scripts.
 
 ## Figure guide
